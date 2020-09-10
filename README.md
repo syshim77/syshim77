@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## syshim77🌱
+
 ### Projects
 
 - Hanium ICT mentoring (Back-end, Machine Learning)
