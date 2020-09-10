@@ -1,6 +1,8 @@
+<!--
+
 ### Hi there 👋
 
-<!--
+
 **syshim77/syshim77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,5 +35,8 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align=center>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sooyeon98/)](https://www.linkedin.com/in/sooyeon98/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syshim77@gmail.com)](mailto:syshim77@gmail.com)
 
+</div>
