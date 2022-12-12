@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# syshim77 🌱
+# Profile 🌱
+
+Name: Sooyeon Shim (Christine)
 
 ### Projects
 
@@ -27,13 +29,15 @@ Here are some ideas to get you started:
 
 ### Interest
 
+- Graph Mining
 - Machine Learning
 - Back-end
 - iOS
 
 ### Education
 
-- Inha Univ.
+- Master: Artificial Intelligence, Seoul National Univ.
+- Bachelor: Computer Engineering, Inha Univ.
 
 <br>
 
