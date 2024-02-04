@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 Name: Sooyeon Shim (Christine)
 
+### Education
+
+- Master: Artificial Intelligence, Seoul National Univ.
+- Bachelor: Computer Engineering, Inha Univ.
+
 ### Papers
 
 - Model-Agnostic Augmentation for Accurate Graph Classification (WWW'22)
@@ -39,11 +44,6 @@ Name: Sooyeon Shim (Christine)
 - Graph Mining
 - Natural Language Processing
 - Machine Learning
-
-### Education
-
-- Master: Artificial Intelligence, Seoul National Univ.
-- Bachelor: Computer Engineering, Inha Univ.
 
 ### Projects
 
